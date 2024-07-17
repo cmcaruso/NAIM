@@ -322,19 +322,21 @@ More specifically, for each fold there are 3 files reporting the predictions for
 ---
 # Contact <div id='contact'/>
 
-For any questions, please contact [camillomaria.caruso@unicampus.it](mailto:camillomaria.caruso@unicampus.it).
+For any questions, please contact [camillomaria.caruso@unicampus.it](mailto:camillomaria.caruso@unicampus.it) and [valerio.guarrasi@unicampus.it](mailto:valerio.guarrasi@unicampus.it).
 
 ---
 
 # Citation <div id='citation'/>
 
 ```bibtex
-@article{,
-    title   = {Not Another Imputation Method: A Deep Learning Approach for Missing Values in Tabular Datasets},
-    author  = {Camillo Maria Caruso and Paolo Soda and Valerio Guarrasi},
-    journal = {ArXiv},
-    year    = {2024},
-    volume  = {abs/}
+@misc{caruso2024imputationmethodtransformerbasedmodel,
+      title={Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets}, 
+      author={Camillo Maria Caruso and Paolo Soda and Valerio Guarrasi},
+      year={2024},
+      eprint={2407.11540},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.11540}, 
 }
 ```
 
