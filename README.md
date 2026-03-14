@@ -1,5 +1,5 @@
 # NAIM 
-[![arXiv](https://img.shields.io/badge/arXiv-2407.11540-b31b1b.svg)](https://arxiv.org/abs/2407.11540)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.aiopen.2026.02.005-blue.svg)](https://doi.org/10.1016/j.aiopen.2026.02.005)
 ---
 
 1. [Installation](#installation)
@@ -329,14 +329,15 @@ For any questions, please contact [camillomaria.caruso@unicampus.it](mailto:cami
 # Citation <div id='citation'/>
 
 ```bibtex
-@misc{caruso2024imputationmethodtransformerbasedmodel,
-      title={Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets}, 
-      author={Camillo Maria Caruso and Paolo Soda and Valerio Guarrasi},
-      year={2024},
-      eprint={2407.11540},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2407.11540}, 
+@article{CARUSO202696,
+title = {Not another imputation method: A transformer-based model for missing values in tabular datasets},
+journal = {AI Open},
+volume = {7},
+pages = {96-122},
+year = {2026},
+issn = {2666-6510},
+doi = {https://doi.org/10.1016/j.aiopen.2026.02.005},
+author = {Camillo Maria Caruso and Paolo Soda and Valerio Guarrasi}
 }
 ```
 
